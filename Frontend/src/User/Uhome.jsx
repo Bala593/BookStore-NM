@@ -25,28 +25,28 @@ const Uhome = () => {
   <div style={{ display: 'flex', justifyContent: 'space-between',  }}>
   <Card style={{ width: '18rem' ,marginRight:"80px"}}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1524451661i/39924789.jpg" />
+    <Card.Img variant="top" src="https://www.writersdigest.com/.image/t_share/MTcxMDY1ODEzNjcxMDk0MjU3/image-placeholder-title.jpg" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>RICH DAD<br/> POOR DAD</Card.Title>
+      <Card.Title className='text-center'>STEPHEN KING</Card.Title>
     </Card.Body>
   </Card>
 
   <Card style={{ width: '18rem' ,marginRight:"80px"}}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463241782i/30186948.jpg" />
+    <Card.Img variant="top" src="https://fivebooks.com/app/uploads/2011/06/0815601689.01.LZ_.jpg" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>TNINK AND<br/> GROW RICH</Card.Title>
+      <Card.Title className='text-center'>DUTIES BEYOND<br/>BORDERS</Card.Title>
     </Card.Body>
   </Card>
 
   <Card style={{ width: '18rem',marginRight:"80px" }}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674147285i/80830635.jpg" />
+    <Card.Img variant="top" src="https://tse2.mm.bing.net/th?id=OIP.l3g9sSosQK0OWEkJT156twHaLt&pid=Api&P=0&h=180" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>DON'T LET HER STAY</Card.Title>
+      <Card.Title className='text-center'>MOHANDAS GANDHI AUTOBIOGRAPHY</Card.Title>
      
     
     </Card.Body>
@@ -54,10 +54,10 @@ const Uhome = () => {
 
   <Card style={{ width: '18rem'}}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675642559i/65214203.jpg" />
+    <Card.Img variant="top" src="https://tse3.mm.bing.net/th?id=OIP.8TD_d_dRAQZ9nMWBjjB8pwHaLe&pid=Api&P=0&h=180" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'> KILLING THE WITCHES</Card.Title>
+      <Card.Title className='text-center'> THE HOBBIT</Card.Title>
     </Card.Body>
   </Card>
 </div>
@@ -74,28 +74,28 @@ const Uhome = () => {
   <div style={{ display: 'flex', justifyContent: 'space-between' }}>
   <Card style={{ width: '18rem' ,marginRight:"80px"}}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251.jpg" />
+    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635218169i/59452090.jpg" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>HARRY POTTER</Card.Title>
+      <Card.Title className='text-center'>MORALS AND DOGMA</Card.Title>
     </Card.Body>
   </Card>
 
   <Card style={{ width: '18rem' ,marginRight:"80px"}}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692288251i/122765395.jpg" />
+    <Card.Img variant="top" src="https://tse4.mm.bing.net/th?id=OIP.eOz0vj8bZCznmgY6syUGUgHaLX&pid=Api&P=0&h=180" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>ELON MUSK </Card.Title>
+      <Card.Title className='text-center'>STEPHEN KING </Card.Title>
     </Card.Body>
   </Card>
 
   <Card style={{ width: '18rem',marginRight:"80px" }}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544102229i/42983957.jpg" />
+    <Card.Img variant="top" src="https://images.squarespace-cdn.com/content/v1/59e235dcd7bdcec81eb68962/1575923349157-3BNDH7JR5UF7ZU0A5A48/ke17ZwdGBToddI8pDm48kJTNl5E2hijD7J-sESO_BVN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ue3pExvFiO6E9rv2lljq9S2_mVV9EJlaTc_26ArkrjDTJilkUu7eIyBb-AQDEk_nZw/Historical+Fiction+The+Sound+of+the+Hours+by+Karen+Campbell.jpg" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>THE MOSQUITO</Card.Title>
+      <Card.Title className='text-center'>THE SOUND OF THE HOURS</Card.Title>
      
     
     </Card.Body>
@@ -103,10 +103,10 @@ const Uhome = () => {
 
   <Card style={{ width: '18rem'}}>
   <Link to='/uproducts'>
-    <Card.Img variant="top" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347493537i/1979210.jpg" />
+    <Card.Img variant="top" src="https://tse1.mm.bing.net/th?id=OIP.M5l6fh2whyN_OR-XdINNCgAAAA&pid=Api&P=0&h=180" />
     </Link>
     <Card.Body>
-      <Card.Title className='text-center'>JOURNEY ON THE JAMES</Card.Title>
+      <Card.Title className='text-center'>THE STORY OF MY LIFE</Card.Title>
     </Card.Body>
   </Card>
 </div>
