@@ -33,7 +33,7 @@ const Asignup = () => {
 
   return (
     <div>
-       <Home/>
+       
     <div className="flex items-center justify-center min-h-screen bg-gray-700">
       <div className="max-w-md w-full bg-white p-8 rounded-md shadow-md overflow-hidden relative">
    
@@ -45,7 +45,7 @@ const Asignup = () => {
         
           
          
-          <h2 className="text-3xl font-extrabold text-gray-900">Seller Registration</h2>
+          <h2 className="text-3xl font-extrabold text-gray-900">Admin Registration</h2>
           
         </div>
 
